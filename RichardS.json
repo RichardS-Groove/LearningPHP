@@ -1,0 +1,10 @@
+{
+    "name": "Instalación",
+    "fullScreen": false,
+    "dateField": "TransDate",
+    "timeField": "TransTime",
+    "icon": "fa-clipboard-list",
+    "location": {
+        "field": 
+    ]
+}
